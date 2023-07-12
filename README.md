@@ -15,7 +15,7 @@ PenguBoi is a delightful and comical Discord bot that brings the spirit of pengu
 
 To invite PenguBoi to your Discord server, follow these simple steps:
 
-1. Go to the `[PenguBoi Invite Link](https://discord.com/oauth2/authorize?client_id=994246855280050268&scope=bot)` (replace `YOUR_CLIENT_ID` with your bot's client ID).
+1. Go to the `[PenguBoi Invite Link](https://discord.com/oauth2/authorize?client_id=994246855280050268&scope=bot)`
 2. Select the server where you want to add PenguBoi.
 3. Authorize the bot and grant the necessary permissions.
 4. PenguBoi will join your server, ready to spread penguin-themed fun and laughter!
